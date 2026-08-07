@@ -1,0 +1,32 @@
+COLLEGE: CVR College of Engineering
+DEPARTMENT: Computer Science and Engineering (CSE)
+HEAD OF DEPARTMENT: Dr. A. Vani Vathsala
+
+Note: CSE is the largest department at CVR with an intake of 660 seats. The department is NBA accredited (Tier 1) and has a Ph.D research centre. The following faculty profiles are based on available information from official college sources.
+
+--- DEPARTMENT OVERVIEW ---
+The CSE department at CVR College of Engineering offers:
+- B.Tech in Computer Science and Engineering (660 seats)
+- Minor Degree options for other B.Tech students
+- Ph.D research centre
+- Strong industry connections with companies like Google, Microsoft, Amazon, TCS, Infosys
+
+Key Highlights:
+- Well-equipped computer laboratories (part of 35 labs campus-wide)
+- 3 Gbps internet connectivity
+- Apple Lab on campus
+- Hosted Smart India Hackathon
+- Hosts online recruitment examinations
+- Faculty recognized globally (Dr. Sengathir among world's top 2% scientists per Stanford)
+
+NBA Accreditation: Yes (Tier 1)
+Research Centre: Yes (Ph.D in CSE)
+
+--- RELATED DEPARTMENTS ---
+CSE - Artificial Intelligence and Machine Learning (AI&ML): Head - Dr. R. Usha Rani | Intake: 240 seats
+CSE - Data Science (DS): Head - Dr. S. V. Suryanarayana | Intake: 240 seats
+CSE - Cyber Security (CS): Head - Dr. Sunitha Maddhi | Intake: 180 seats
+CSBS (Computer Science and Business Systems): Intake: 60 seats
+
+--- NOTABLE FACULTY ---
+Dr. Sengathir - Professor, IT Department - Recognized among world's top 2% scientists by Stanford University (2024-25)

@@ -1,0 +1,56 @@
+COLLEGE: CVR College of Engineering
+SECTION: Courses and Programs Offered (Academic Year 2025-26)
+
+--- B.TECH PROGRAMS ---
+
+Program: Civil Engineering | Intake: 60 seats
+Program: Computer Science and Business Systems (CSBS) | Intake: 60 seats
+Program: Computer Science and Engineering (CSE) | Intake: 660 seats
+Program: Computer Science and Engineering - Artificial Intelligence and Machine Learning (CSE AI&ML) | Intake: 240 seats
+Program: Computer Science and Engineering - Data Science (CSE DS) | Intake: 240 seats
+Program: Computer Science and Engineering - Cyber Security (CSE CS) | Intake: 180 seats
+Program: Electronics and Communication Engineering (ECE) | Intake: 120 seats
+Program: Electronics Engineering - VLSI Design and Technology | Intake: 60 seats
+Program: Electrical and Electronics Engineering (EEE) | Intake: 60 seats
+Program: Electronics and Instrumentation Engineering (EIE) | Intake: 60 seats
+Program: Information Technology (IT) | Intake: 120 seats
+Program: Mechanical Engineering | Intake: 60 seats
+
+Total B.Tech Seats: approximately 1440 seats across all programs
+
+--- M.TECH PROGRAMS ---
+
+Program: Artificial Intelligence | Intake: 18 seats
+Program: Data Sciences | Intake: 18 seats
+Program: Electrical Power Engineering | Intake: 18 seats
+Program: Embedded Systems | Intake: 18 seats
+Program: Structural Engineering | Intake: 18 seats
+Program: VLSI Design | Intake: 18 seats
+
+--- Ph.D PROGRAMS ---
+
+Research Centre: Computer Science and Engineering (CSE)
+Research Centre: Electronics and Communication Engineering (ECE)
+
+--- MINOR DEGREE PROGRAMS ---
+
+Available Minor Specializations: AI and Machine Learning, Cyber Security, Data Science, Internet of Things (IoT)
+
+Eligibility: B.Tech students from 3rd year onwards who have completed 160 credits in their major
+Additional Credits Required: 18 credits for Minor Degree
+
+Departments offering Minor Degrees and available combinations:
+- Civil Engineering: Minor in AI&ML, Cyber Security, Data Science, IoT
+- Electrical and Electronics Engineering: Minor in AI&ML, Cyber Security, Data Science, IoT
+- Electronics and Communication Engineering: Minor in AI&ML, Cyber Security, Data Science, IoT
+- Electronics Engineering (VLSI): Minor in AI&ML, Cyber Security, Data Science, IoT
+- Electronics and Instrumentation Engineering: Minor in AI&ML, Cyber Security, Data Science, IoT
+- Mechanical Engineering: Minor in AI&ML, Cyber Security, Data Science, IoT
+
+Note: Students already enrolled in AI&ML, Cyber Security, or Data Science majors can choose a different minor specialization.
+
+--- NEW PROGRAMS (Recently Introduced) ---
+- Electronics Engineering (VLSI Design and Technology) - newly introduced
+- Information Technology - newly introduced
+- M.Tech in Artificial Intelligence - newly introduced
+- M.Tech in Data Sciences - newly introduced

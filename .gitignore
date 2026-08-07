@@ -1,0 +1,110 @@
+# ── Python ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ── Virtual environments ─────────────────────────────────────
+.env
+.venv
+env/
+venv/
+venv311/
+ENV/
+env.bak/
+venv.bak/
+
+# ── Secrets (NEVER commit these) ────────────────────────────
+config.json
+*.env
+.env.*
+
+# ── Data / raw input files ───────────────────────────────────
+data/
+data1/
+
+# ── Vector database (binary, generated locally) ─────────────
+vector_db_dir/
+
+# ── Distribution / packaging ─────────────────────────────────
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.manifest
+*.spec
+
+# ── Testing & coverage ───────────────────────────────────────
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# ── Jupyter ──────────────────────────────────────────────────
+.ipynb_checkpoints
+
+# ── IDE & editor ─────────────────────────────────────────────
+.idea/
+.vscode/
+.cursorignore
+.cursorindexingignore
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ── Type checkers & linters ──────────────────────────────────
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+cython_debug/
+
+# ── Misc Python tools ────────────────────────────────────────
+.pypirc
+.pdm.toml
+.pdm-python
+.pdm-build/
+__pypackages__/
+celerybeat-schedule
+celerybeat.pid
+*.sage.py
+*.log
+*.pot
+*.mo
+
+# ── Frontend ─────────────────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/dist-sr/
+frontend/*.local
+
+# ── Old / irrelevant files ───────────────────────────────────
+images/
+project_documentation.md

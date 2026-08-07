@@ -1,0 +1,81 @@
+COLLEGE: CVR College of Engineering
+SECTION: Administration, Leadership, and Department Heads
+
+--- DIRECTOR ---
+Name: Prof. K. Rama Sastri
+Qualifications: B.E., M.E., Ph.D. (IIT Madras)
+Email: director@cvr.ac.in
+Background: Former Rector of JNTU until July 2002. Held positions of Professor, HOD, Vice Principal, Principal, Director, and Registrar at JNTU.
+Published: 25+ research papers in national and international journals and conferences
+Guided: 30+ M.Tech projects
+Award: Andhra Pradesh State Government Best Teacher Award (University Teacher Category, 1994)
+Joined CVR: 2002 as Principal; appointed Director in 2008
+
+--- PRINCIPAL ---
+Name: Dr. K. Ramamohan Reddy
+Designation: Professor of Civil Engineering and Principal
+Email: principal@cvr.ac.in
+Qualifications:
+  - B.Tech in Civil Engineering, Sri Venkateswara University
+  - M.Tech in Water Resources Engineering, JNTUH
+  - Ph.D. in Water Resources Engineering, JNTUH
+At CVR: Principal since 2022
+Previous Roles: Professor, Associate Professor, Assistant Professor at JNTUH; Lecturer at G. Pulla Reddy Engineering College
+Administrative Experience: OSD to Vice Chancellor JNTUH, Director of Academic Audit Cell JNTUH, Training and Placement Officer JNTUH, Controller of Examinations JNTUH
+Research: 43 conference papers, 40 journal publications, guided 6 PhD scholars and 57 M.Tech students
+Memberships: ISTE (Indian Society for Technical Education), Indian Association of Hydrologists
+
+--- DEAN ACADEMICS ---
+Name: Dr. Nayanathara K. Sattiraju
+Email: dean.academics@cvr.ac.in
+Qualifications: B.E. (ECE), M.E. (Osmania University), Ph.D. (NIT Warangal)
+Roles at CVR: Professor and Head ECE, Principal (2014-2022), Dean Academics (current)
+Previous: Principal of SKTRM College of Engineering for 10 years
+Award: CMC Gold Medal in M.E.
+Publications: National and international journals including IEEE
+Membership: Senior Member of IEEE; served on committees of IETE, JNTUH, and various universities
+Research Areas: Electromagnetics, Antennas, Microwave Devices and Circuits
+
+--- VICE PRINCIPAL ---
+Name: Prof. L. C. Siva Reddy
+Role: Vice Principal and Vice Chairperson of Academic Committee
+
+--- DEPARTMENT HEADS ---
+
+Department: Civil Engineering
+Head: Dr. B. Naga Malleswara Rao
+
+Department: Computer Science and Engineering (CSE)
+Head: Dr. A. Vani Vathsala
+
+Department: CSE - Artificial Intelligence and Machine Learning (AI & ML)
+Head: Dr. R. Usha Rani
+
+Department: CSE - Data Science (DS)
+Head: Dr. S. V. Suryanarayana
+
+Department: CSE - Cyber Security (CS)
+Head: Dr. Sunitha Maddhi
+
+Department: Electronics and Communication Engineering (ECE)
+Head: Dr. P. Srinivasa Rao
+
+Department: Electrical and Electronics Engineering (EEE)
+Head: Dr. G. Sree Lakshmi
+
+Department: Electronics and Instrumentation Engineering (EIE)
+Head: Dr. S. Harivardhagini
+
+Department: Information Technology (IT)
+Head: Dr. Bipin Bihari Jaya Singh
+
+Department: Mechanical Engineering
+Head: Dr. M. Venkata Ramana
+
+Department: Humanities and Sciences
+Head: Dr. G. Bikshamaiah
+
+--- ACADEMIC COUNCIL ---
+Chairperson: Dr. K. Ramamohan Reddy (Principal)
+Members include: JNTUH Nominees, University Representatives, Industry Experts, Department Heads, Deans, Faculty Representatives, Controller of Examinations, Academic Administrators
+Responsibilities: Academic planning, curriculum development, quality assurance, academic governance

@@ -1,0 +1,80 @@
+COLLEGE: CVR College of Engineering
+SECTION: Infrastructure and Facilities
+
+--- CAMPUS ---
+Total Area: 33 acres
+Built-up Area: More than 63,771 square meters
+Classrooms: 95 spacious classrooms
+Laboratories: 120 laboratories
+Projectors: LCD projectors in all classrooms and laboratories
+Conference Rooms: Air-conditioned conference rooms
+Power Backup: Continuous generator backup exceeding 500 kVA; UPS support for all labs
+Campus-wide Wi-Fi: Yes
+
+--- AUDITORIUM ---
+Seating Capacity: 1500
+Air Conditioned: Yes
+Wi-Fi Enabled: Yes
+Projectors: Four high-powered LCD projectors
+
+--- LIBRARY ---
+Building: Dedicated three-storied building
+Total Area: 1460 square meters
+Total Books: 87,582
+Reference Titles: 17,046
+Journals: 191
+Digital PCs: 30 multimedia PCs
+Digital Library Access: IEEE Digital Library, ASME, ASCE, DELNET, IESTC, KNIMBUS, NDLI, NPTEL
+Additional Resources: Newspapers, magazines, biographies, rare books, general knowledge books
+Library Timings: College bus facility available up to 6:00 PM on working days
+
+Library Staff:
+- Professor In-Charge: Dr. Lalithendra Kurra
+- Librarian: Mrs. G. Bindu
+- Deputy Librarians: Mr. A. Hanumanth Reddy, Mr. T. Bakkaiah, Mrs. P. Aruna
+- Assistant Librarian: Mrs. P. Pavani
+- Senior Library Assistants: Mr. G. Ravinder Reddy, Mr. M. Ravi Kiran Reddy, Mr. G. Purushotham Reddy
+
+--- SPORTS FACILITIES ---
+Outdoor Sports:
+- Volleyball Courts: 2
+- Basketball Court: 1
+- Throwball Court: 1
+- Badminton Court: 1
+- Cricket Ground with Floodlights: 1
+- Football Ground: 1
+
+Indoor Sports:
+- Table Tennis, Chess, Billiards, Gymnasium, Carrom
+
+Support: High-quality sports equipment, two full-time coaches
+Bus facility available until 6:30 PM on working days for sports
+
+--- COMPUTING INFRASTRUCTURE ---
+Computer Labs: 35 state-of-the-art labs
+Servers: Lenovo Servers, Dell Servers, Apple Systems
+Internet Speed: Approximately 3 Gbps
+Network: Campus-wide Wi-Fi
+Other: Hosts online recruitment exams, hosted Smart India Hackathon, high-end laptops provided to professors
+
+--- STUDENT CENTRE ---
+Building: Independent four-storied building
+Facilities:
+- Canteen
+- Gymnasium
+- Indoor Sports Facilities
+- Medical Centre / Health Centre
+- Placement Office
+
+--- HOSTEL FACILITIES ---
+Hostels: Two Boys Hostels, Two Girls Hostels
+Total Capacity: 1250 students (2025-26)
+
+Hostel Fees (2025-26):
+- Air Conditioned Room: Rs. 1,60,000 per year
+- Non-Air Conditioned Room: Rs. 1,35,000 per year
+- Refundable Caution Deposit: Rs. 10,000
+
+--- HEALTH CENTRE ---
+Location: On campus (inside Student Centre)
+Service: Medical support and healthcare services for students

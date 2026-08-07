@@ -1,0 +1,95 @@
+COLLEGE: CVR College of Engineering
+SECTION: Placement Statistics and Recruiters
+
+PLACEMENT SUPPORT:
+The Centre for Student Services and Placement provides:
+- Placement training, coding preparation, aptitude training
+- Mock interviews, soft skills development
+- Industry interaction sessions, internship opportunities
+- Career guidance programs
+
+--- PLACEMENTS 2025-26 ---
+Total Placements: 1251+
+Companies Visited: 90+
+Highest Package: Rs. 55 LPA (Google)
+Offers Above Rs. 6 LPA: 375+
+High Salary Offers: 175+
+
+Top Packages 2025-26:
+- Google: Rs. 55 LPA
+- ServiceNow: Rs. 46.32 LPA
+- Amazon Future Engineer: Rs. 42 LPA
+- Commvault: Rs. 32.99 LPA
+- Trilogy Innovations: Rs. 32 LPA
+
+Top Recruiters 2025-26: Google, Amazon, ServiceNow, Commvault, JP Morgan, Oracle, Walmart, Infosys, TCS, Accenture, Cognizant, Deloitte, PwC
+
+--- PLACEMENTS 2024-25 ---
+Total Placements: 972+
+Companies Visited: 90+
+Highest Package: Rs. 72 LPA (Ethereum Foundation - international offer)
+Offers Above Rs. 6 LPA: 250+
+High Salary Offers: 150+
+
+Top Packages 2024-25:
+- Ethereum Foundation: Rs. 72 LPA
+- Amazon: Rs. 45.64 LPA
+- PayPal: Rs. 34 LPA
+- Aerius Labs: Rs. 34 LPA
+- Commvault: Rs. 32.99 LPA
+
+Top Recruiters 2024-25: Ethereum Foundation, Amazon, PayPal, Goldman Sachs, Oracle, HSBC, Infosys, OpenText, Capgemini, Deloitte
+
+--- PLACEMENTS 2023-24 ---
+Total Placements: 906+
+Companies Visited: 75+
+Highest Package: Rs. 33 LPA (Commvault)
+Offers Above Rs. 6 LPA: 225+
+High Salary Offers: 100+
+
+Top Packages 2023-24:
+- Commvault: Rs. 32.99 LPA
+- Oracle: Rs. 19.18 LPA
+- Cadence: Rs. 17.30 LPA
+- GAP: Rs. 11 LPA
+- FactSet: Rs. 10.08 LPA
+
+Top Recruiters 2023-24: Commvault, Oracle, Cadence, GAP, FactSet, Infosys, Verisk, SAP, TCS, Accenture
+
+--- PLACEMENTS 2022-23 ---
+Total Placements: 1503+
+Companies Visited: 100+
+Highest Package: Rs. 57.5 LPA (Deutsche Bank - international offer)
+Offers Above Rs. 6 LPA: 300+
+Offers Above Rs. 10 LPA: 100+
+
+Top Packages 2022-23:
+- Deutsche Bank: International Offer
+- Amazon: Rs. 44 LPA
+- Commvault: Rs. 29 LPA
+- Silicon Labs: Rs. 23.25 LPA
+- Oracle: Rs. 18.26 LPA
+
+Top Recruiters 2022-23: Deutsche Bank, Amazon, Oracle, Cadence, IBM, Deloitte, SAP Labs, TCS, Infosys, Cognizant
+
+--- PLACEMENTS 2021-22 ---
+Total Placements: 2106+ (First batch to exceed 2000 placements)
+Companies Visited: 125+
+Highest Package: Rs. 47 LPA (Microsoft)
+Offers Above Rs. 10 LPA: 75+
+Placement Percentage: Nearly 100%
+
+Top Packages 2021-22:
+- Microsoft: Rs. 47 LPA
+- Amazon: Rs. 44.15 LPA
+- Amazon WOW: Rs. 30.50 LPA
+- Commvault: Rs. 29.79 LPA
+- Upstox: Rs. 28 LPA
+
+Top Recruiters 2021-22: Microsoft, Amazon, Morgan Stanley, Cisco, Oracle, Deloitte, Accenture, TCS, Infosys, Cognizant
+
+--- ALL-TIME MAJOR RECRUITERS ---
+Technology: Google, Microsoft, Amazon, Oracle, SAP, IBM, Infosys, TCS, Cognizant, Accenture, Capgemini, HCL, ServiceNow
+Product Companies: Commvault, Cadence, FactSet, PayPal, Walmart, Meesho, OpenText, Broadridge
+Financial: JP Morgan, Goldman Sachs, HSBC, Deutsche Bank, Morgan Stanley, DBS
+Consulting and Analytics: Deloitte, PwC, Verisk, MAQ Software, Modak Analytics
