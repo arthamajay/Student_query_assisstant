@@ -24,6 +24,7 @@ ENV/
 # ── Generated / binary data (rebuild locally) ───────────────
 backend/vector_db_dir/
 backend/data/
+backend/rag_data/
 
 # ── Testing & coverage ───────────────────────────────────────
 .pytest_cache/

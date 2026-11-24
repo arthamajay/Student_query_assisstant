@@ -29,7 +29,7 @@ def create_chain():
 
     # ChatGroq reads GROQ_API_KEY from the environment automatically.
     llm = ChatGroq(
-        model="llama-3.3-70b-versatile",
+        model="openai/gpt-oss-120b",
         temperature=0,
     )
 
