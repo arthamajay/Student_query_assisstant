@@ -1,12 +1,12 @@
-# CVR College RAG Chatbot
+# Student Query Assistant
 
 A full-stack **Retrieval-Augmented Generation (RAG) chatbot** for CVR College of Engineering. It answers student queries about courses, faculty, placements, infrastructure, and more — using college-specific documents as its knowledge base.
 
 ## Tech Stack
 
 | Layer | Technology |
-|-------|-----------|
-| LLM | Groq — `llama-3.3-70b-versatile` |
+|-------|------------|
+| LLM | Groq — `openai/gpt-oss-120b` |
 | Embeddings | HuggingFace `all-mpnet-base-v2` |
 | Vector DB | ChromaDB |
 | Backend | FastAPI + Uvicorn |
@@ -16,13 +16,13 @@ A full-stack **Retrieval-Augmented Generation (RAG) chatbot** for CVR College of
 ## Project Structure
 
 ```
-edureach-platform/
+Student_query_assisstant/
 ├── backend/
-│   ├── api.py                  # FastAPI app (REST endpoints)
-│   ├── chatbot.py              # LangChain RAG chain
-│   ├── vectorize_documents.py  # Builds vector DB from PDFs
+│   ├── api.py                   # FastAPI app — REST endpoints
+│   ├── chatbot.py               # LangChain RAG chain setup
+│   ├── vectorize_documents.py   # Builds the ChromaDB vector store
 │   ├── requirements.txt
-│   └── rag_data/               # Text knowledge-base files
+│   └── rag_data/                # Curated knowledge-base text files
 ├── frontend/
 │   ├── src/
 │   │   ├── App.jsx
@@ -31,7 +31,7 @@ edureach-platform/
 │   │       └── ChatInput.jsx
 │   ├── package.json
 │   └── vite.config.js
-├── .env.example                # Copy to .env and add your keys
+├── .env.example                 # Copy to .env and fill in your keys
 └── README.md
 ```
 
@@ -46,15 +46,15 @@ edureach-platform/
 ### 1. Clone the repo
 
 ```bash
-git clone <repo-url>
-cd edureach-platform
+git clone https://github.com/arthamajay/Student_query_assisstant.git
+cd Student_query_assisstant
 ```
 
 ### 2. Configure environment variables
 
 ```bash
 cp .env.example .env
-# Open .env and set GROQ_API_KEY
+# Open .env and set your GROQ_API_KEY
 ```
 
 ### 3. Set up the Python environment
@@ -65,7 +65,7 @@ python -m venv .venv
 
 # Windows
 .venv\Scripts\activate
-# macOS/Linux
+# macOS / Linux
 source .venv/bin/activate
 
 pip install -r requirements.txt
@@ -73,13 +73,13 @@ pip install -r requirements.txt
 
 ### 4. Build the vector database
 
-Place your college PDF documents in `backend/data/`, then run:
+The script loads from `backend/rag_data/` (curated text files) and optionally `backend/data/` (PDFs).
 
 ```bash
 python vectorize_documents.py
 ```
 
-This creates the `backend/vector_db_dir/` ChromaDB store. Only needs to run once (or when PDFs change).
+This creates `backend/vector_db_dir/`. Run once after cloning, or whenever the source files change.
 
 ### 5. Install frontend dependencies
 
@@ -90,28 +90,28 @@ npm install
 
 ## Running
 
-### Backend (Terminal 1)
+### Backend — Terminal 1
 
 ```bash
 cd backend
 uvicorn api:app --reload --port 8000
 ```
 
-### Frontend (Terminal 2)
+### Frontend — Terminal 2
 
 ```bash
 cd frontend
 npm run dev
 ```
 
-Open **http://localhost:5173** in your browser.
+Open **http://localhost:5173** in your browser (Vite may use 5174/5175 if 5173 is taken).
 
-## API
+## API Reference
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `GET` | `/health` | Returns backend and chain status |
-| `POST` | `/chat` | Send a question, get an answer |
+| Method | Endpoint  | Description                        |
+|--------|-----------|------------------------------------|
+| `GET`  | `/health` | Returns backend and chain status   |
+| `POST` | `/chat`   | Send a question, receive an answer |
 
 **POST /chat**
 ```json
@@ -124,5 +124,5 @@ Open **http://localhost:5173** in your browser.
 
 ## Notes
 
-- `vector_db_dir/` and `data/` are excluded from git — each collaborator runs `vectorize_documents.py` after cloning.
-- Never commit `.env` or `config.json`.
+- `vector_db_dir/` and `data/` are excluded from git. Every collaborator must run `vectorize_documents.py` after cloning.
+- Never commit `.env` or `config.json` — use `.env.example` as the template.
